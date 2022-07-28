@@ -2,6 +2,9 @@ using Xunit;
 
 namespace csharp_tutorial
 {
+    /// <summary>
+    /// comment 1
+    /// </summary>
     public class General
     {
         public class Hello
